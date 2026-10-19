@@ -1,0 +1,5 @@
+rexona-node.orig
+*.orig
+*.patched
+stage-*/
+release/
